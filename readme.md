@@ -73,7 +73,9 @@ Click menu and then "Set Parameters". This produces a window in which the user i
 
 ![alt text](https://github.com/mjggibson4/mjggibson4.github.io/blob/master/ParameterMenu.png "Logo Title Text 1")
  
-Once these parameters have been defined, click apply. These parameters must be postive integers and an internal check occurs to verify this is the case. If this is not the case, a warning is displayed on the screen.
+Once these parameters have been defined, click apply. These parameters must be postive integers and an internal check occurs to verify this is the case. If this is not the case, the following warning screen is displayed and user is forced to reenter appropriate values:
+
+![alt text](https://github.com/mjggibson4/mjggibson4.github.io/blob/master/ParameterMenu.png "Logo Title Text 1")
 
 ###  Run the Model
 
