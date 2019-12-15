@@ -4,7 +4,7 @@
 
 This python based project a simple agents based model of predator prey dynamics. In this scenario these two competing agents have been defined as that of sheep and wolves. These agents move randomly around a defined domain and are allowed to interact with one another. In particular, these sheep agents "graze" their spatial eniviroment while the wolves consume these sheep if close enough. Both of these agents reproduce dependent on the resources on which they have consumed. This model provides a visual representation of these spatial dynamics and behaviours.
 
-The exact logic and "rules" of this population model can be found in more detail here: Insert Scope Document
+The exact logic and "rules" of this population model can be found in more detail here: [here](https://github.com/mjggibson4/Practical1/blob/master/Scope.md "")
 
 ## Table of Contents
 
@@ -77,17 +77,19 @@ Once these parameters have been defined, click apply. These parameters must be p
 
 ###  Run the Model
 
-Select the Model and Click Run. A within the canvas of the window, the agents will be observed moving around the domain.
+Select the "Model" menu and "Click" Run. A within the canvas of the GUI window, the agents will be observed moving around the domain.
 
 ## 5 Standards
 
-This model has been produced in Python 3.7. The code has been produced to adhere to Google Python standards. The full details of this style can be found [here](http://google.github.io/styleguide/pyguide.html ""
+This model has been produced in Python 3.7. The code has been produced to adhere to Google Python standards. The full details of this style can be found [here](http://google.github.io/styleguide/pyguide.html "")
 
 ## 6 Troubleshooting
 
-In the case of errors within this program please check the troubleshooting file which can be located here: 
+In the case of errors within this program please check the troubleshooting file which can be located [here](https://github.com/mjggibson4/Practical1/blob/master/InternalChecks.md "")
 
-## Licensing
+## 7 Licensing
+
+This program is open source and licensed via an MIT license. The full details of this license are available [here](https://github.com/mjggibson4/Practical1/blob/master/License.md "")
 
 ## 8 Acknowledgements
 
