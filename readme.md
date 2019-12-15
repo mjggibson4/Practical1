@@ -79,6 +79,8 @@ Once these parameters have been defined, click apply. These parameters must be p
 
 Select the "Model" menu and "Click" Run. A within the canvas of the GUI window, the agents will be observed moving around the domain.
 
+![alt text](https://github.com/mjggibson4/mjggibson4.github.io/blob/master/RunGIF.gif "Example Run")
+
 ## 5 Standards
 
 This model has been produced in Python 3.7. The code has been produced to adhere to Google Python standards. The full details of this style can be found [here](http://google.github.io/styleguide/pyguide.html "")
