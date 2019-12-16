@@ -75,13 +75,15 @@ Click the Model menu and then "Set Parameters". This produces a window in which 
 * Wolf Threshold - The number of sheep needed to be eaten by a wolf in order for it to reproduce
 * Sheep Threshold - The amount of units of environment needed to be consumed by a sheep in order for it to reproduce
 
-A screenshot of this menu is provided below
+A screenshot of this menu is provided below:
 
 ![alt text](https://github.com/mjggibson4/mjggibson4.github.io/blob/master/ParameterMenu.png "Logo Title Text 1")
  
 Once these parameters have been defined, click apply. These parameters must be positive integers and an internal check occurs to verify this is the case. If this is not the case, the following warning screen is displayed and user is forced to re-enter appropriate values:
 
-![alt text](https://github.com/mjggibson4/Practical1/blob/master/ParameterError.png "Parameter Error")
+
+<img src="https://github.com/mjggibson4/Practical1/blob/master/ParameterError.png" width="550">
+
 
 ### Run the Model
 
