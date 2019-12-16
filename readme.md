@@ -59,7 +59,8 @@ This model can be initialised in one of two manners:
 
 Either of these methods should result in the GUI for the population model being presented as displayed below
 
-![alt text](https://github.com/mjggibson4/Practical1/blob/master/GUIGrab.png "Logo Title Text 1")
+<img src="https://github.com/mjggibson4/Practical1/blob/master/GUIGrab.png" width="300">
+
 
 ## 4. Running Model
 
@@ -88,7 +89,7 @@ Select the "Model" menu and "Click" Run. A within the canvas of the GUI window, 
 
 ![alt text](https://github.com/mjggibson4/mjggibson4.github.io/blob/master/RunGIF.gif "Example Run")
 
-From this, the user should observe the agents moving randomly, interacting and reproducing accordingly.
+From this, the user should observe the agents moving randomly, interacting and reproducing accordingly as shown above.
 
 ## 5. Standards Used
 
