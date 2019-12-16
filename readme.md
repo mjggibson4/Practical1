@@ -81,7 +81,7 @@ A screenshot of this menu is provided below
  
 Once these parameters have been defined, click apply. These parameters must be positive integers and an internal check occurs to verify this is the case. If this is not the case, the following warning screen is displayed and user is forced to re-enter appropriate values:
 
-![alt text](https://https://github.com/mjggibson4/Practical1/blob/master/ParameterError.png "Parameter Error")
+![alt text](https://github.com/mjggibson4/Practical1/blob/master/ParameterError.png "Parameter Error")
 
 ### Run the Model
 
