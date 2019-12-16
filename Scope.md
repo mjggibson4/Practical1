@@ -39,4 +39,4 @@ The following changes could be made to the current project to make it move refle
 * Remove agents whose energy store is at 0.
 * Randomly remove agents to simulate natural deaths within a population.
 * Introduce disease to the model. Set a defined agent as being infected and allow this agent to pass the infection on to agents within a defined distance.
-* Record the number of agents at each iteration and display this within an animated graph,
+* Record the number of agents at each iteration and display this within an animated graph.
