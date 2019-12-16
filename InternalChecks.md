@@ -3,7 +3,7 @@
 ## Purpose
 This file documents the internal checks that occur within the code of the Population Model project in order to ensure that it functions correctly. This document should also be used for troubleshooting purposes.
 
-
+<br />
 
 ## User Inputs
 Within this model the user is asked to input values for six variables:
@@ -19,6 +19,7 @@ These variables MUST be positive integers for the program to function correctly.
 
 <img src="https://github.com/mjggibson4/Practical1/blob/master/ParameterError.png" width="550">
 
+<br />
 
 
 ## Web Scraping
@@ -28,7 +29,7 @@ The initial locations of the sheep agents are defined via webscraping. In the ev
 <img src="https://github.com/mjggibson4/Practical1/blob/master/NetworkError.png" width="550">
 
 
-
+<br />
 ## Environment
 
 The environment within this model is defined via a .txt file. If this file is not present within the directory from which the script is being run then the program would fail. In this scenario, a try/except error capturing structure has been defined to alert the user and terminate the program.
