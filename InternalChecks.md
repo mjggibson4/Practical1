@@ -24,9 +24,9 @@ The initial locations of the sheep agents are defined via webscraping. In the ev
 
 <img src="https://github.com/mjggibson4/Practical1/blob/master/NetworkError.png" width="550">
 
-## Enivornment
+## Environment
 
-The environment within this model is defined via a .txt file. If this file is not present within the directory from which the script is being run then the program would fail. In this scenario, a try/except error capturing sturcture has been defined to alert the user and terminate the program.
+The environment within this model is defined via a .txt file. If this file is not present within the directory from which the script is being run then the program would fail. In this scenario, a try/except error capturing structure has been defined to alert the user and terminate the program.
 
 <img src="https://github.com/mjggibson4/Practical1/blob/master/NetworkError.png" width="550">
 
