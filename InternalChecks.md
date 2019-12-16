@@ -30,6 +30,7 @@ The initial locations of the sheep agents are defined via webscraping. In the ev
 
 
 <br />
+
 ## Environment
 
 The environment within this model is defined via a .txt file. If this file is not present within the directory from which the script is being run then the program would fail. In this scenario, a try/except error capturing structure has been defined to alert the user and terminate the program.
