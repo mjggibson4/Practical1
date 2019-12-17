@@ -87,7 +87,7 @@ Once these parameters have been defined, click apply. These parameters must be i
 
 ### Run the Model
 
-Select the "Model" menu and "Click" Run. A within the canvas of the GUI window, the agents will be observed moving around the domain.
+Select the "Model" menu and "Click" Run. Within a figure window, the agents will be observed moving around the domain.
 
 ![alt text](https://github.com/mjggibson4/Practical1/blob/master/RunGIF.gif "Example Run")
 
