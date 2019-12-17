@@ -89,7 +89,7 @@ Once these parameters have been defined, click apply. These parameters must be p
 
 Select the "Model" menu and "Click" Run. A within the canvas of the GUI window, the agents will be observed moving around the domain.
 
-![alt text](https://github.com/mjggibson4/mjggibson4.github.io/blob/master/RunGIF.gif "Example Run")
+![alt text](https://github.com/mjggibson4/Practical1/blob/master/RunGIF.gif "Example Run")
 
 From this, the user should observe the agents moving randomly, interacting and reproducing accordingly as shown above.
 
@@ -98,6 +98,8 @@ From this, the user should observe the agents moving randomly, interacting and r
 This model has been produced in Python 3.7. The code has been produced to adhere to Google Python standards. The full details of this style can be found [here](http://google.github.io/styleguide/pyguide.html ""). This code has been produced in a manner consistent with the loose coupling pattern.
 
 ## 6. Known Issues
+
+A known issue within within this project is that model runs within a figure instead of the canvas as intended. This is bug which I have been so far unable to determine the source of but it does not impact on how the model is run.
 
 ## 7. Troubleshooting
 
