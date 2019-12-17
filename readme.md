@@ -99,7 +99,7 @@ This model has been produced in Python 3.7. The code has been produced to adhere
 
 ## 6. Known Issues
 
-A known issue within within this project is that model runs within a figure instead of the canvas as intended. This is bug which I have been so far unable to determine the source of but it does not impact on how the model is run.
+A known issue within within this project is that model runs within a figure instead of the canvas as intended. This is a bug which I have been so far unable to determine the source of however this does not impact on how the model is run and the results provided.
 
 ## 7. Troubleshooting
 
