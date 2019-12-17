@@ -77,7 +77,7 @@ Click the Model menu and then "Set Parameters". This produces a window in which 
 
 A screenshot of this menu is provided below:
 
-![alt text](https://github.com/mjggibson4/mjggibson4.github.io/blob/master/ParameterMenu.png "Logo Title Text 1")
+![alt text](https://github.com/mjggibson4/Practical1/blob/master/ParameterMenu.png "Logo Title Text 1")
  
 Once these parameters have been defined, click apply. These parameters must be integers and an internal check occurs to verify this is the case. The absolute value of negative numbers are taken to avoid system error. If integers are not input, the following warning screen is displayed and user is forced to re-enter appropriate values:
 
