@@ -79,7 +79,7 @@ A screenshot of this menu is provided below:
 
 ![alt text](https://github.com/mjggibson4/mjggibson4.github.io/blob/master/ParameterMenu.png "Logo Title Text 1")
  
-Once these parameters have been defined, click apply. These parameters must be positive integers and an internal check occurs to verify this is the case. If this is not the case, the following warning screen is displayed and user is forced to re-enter appropriate values:
+Once these parameters have been defined, click apply. These parameters must be integers and an internal check occurs to verify this is the case. The absolute value of negative numbers are taken to avoid system error. If integers are not input, the following warning screen is displayed and user is forced to re-enter appropriate values:
 
 
 <img src="https://github.com/mjggibson4/Practical1/blob/master/ParameterError.png" width="550">
@@ -91,7 +91,7 @@ Select the "Model" menu and "Click" Run. A within the canvas of the GUI window, 
 
 ![alt text](https://github.com/mjggibson4/Practical1/blob/master/RunGIF.gif "Example Run")
 
-From this, the user should observe the agents moving randomly, interacting and reproducing accordingly as shown above.
+From this, the user should observe the agents moving randomly, interacting and reproducing accordingly as shown above. The number of wolf and sheep agents for each iteration is shown within the legend of the model.
 
 ## 5. Standards Used
 
